@@ -1,3 +1,3 @@
-module github.com/theNewDynamic/hugo-module-tnd-seo
+module github.com/kaseya-dm/hugo-module-tnd-seo
 
 go 1.14
